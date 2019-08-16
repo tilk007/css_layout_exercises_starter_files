@@ -1,8 +1,5 @@
-main
-{
-	font-size: 0;
-}
-.big_block
+
+.box
 {
 	
 	width: 800px;
@@ -12,12 +9,13 @@ main
   	margin-top: 90px;
 }
 
-.row_flex
+
+.flex_row
 {
 	display: flex;
 	flex-direction: row;
 }
-.left_block
+.left_bloc
 {
 	width: 400px;
   	height: 200px;
@@ -26,7 +24,7 @@ main
   	
 }
 
-.right_block
+.right_bloc
 {
 	width: 400px;
   	height: 200px;
