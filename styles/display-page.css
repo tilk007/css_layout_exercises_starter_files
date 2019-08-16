@@ -1,12 +1,15 @@
+main
+{
+	font-size: 0;
+}
 .big_block
 {
 	
 	width: 800px;
   	height: 500px;
-  	border: 1px solid black;
   	margin-left: auto;
   	margin-right: auto;
-  	margin-top: 60px;
+  	margin-top: 90px;
 }
 
 .row_flex
